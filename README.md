@@ -1,7 +1,7 @@
 # 2023 HYU ITE2037 Obeject Oriented Programming
 
 ## lab 01
-No Lab.
+Orientation, Eclipse
 
 ## lab 02
 Variable And Strings, Control Flow
