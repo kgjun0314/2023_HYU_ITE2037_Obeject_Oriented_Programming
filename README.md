@@ -38,3 +38,6 @@ Thread, Design Patterns (Singleton)
 
 ## lab 13
 Design Patterns (Decorator, Observer)
+
+## lab 14
+Collections, Maps And Iterators
